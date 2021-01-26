@@ -1,0 +1,7 @@
+{
+  "name": "omf",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
